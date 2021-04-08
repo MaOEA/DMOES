@@ -11,7 +11,7 @@ In addition, DMOES can obtain a well-converged and well-diversified Pareto front
 
 ![Alt text](https://github.com/MaOEA/DMOES/blob/master/Images/c.jpg)
 
-Copyright (c) 2018-2020 MaOES Group. You are free to use the Programe for research purposes.
+Copyright (c) 2018-2021 MaOES Group. You are free to use the Programe for research purposes.
 
 All publications which use this Programe or any code in the Programe should acknowledge the use of "DMOES" and reference "Kai Zhang, Chaonan Shen, Xiaoming Liu, Gary G. Yen, Multiobjective Evolution Strategy for Dynamic Multiobjective Optimization, IEEE Transactions on Evolutionary Computation, 2020, vol 24(5), 974-988,"
 
